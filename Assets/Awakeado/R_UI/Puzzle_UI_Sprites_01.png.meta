@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 22cb2e47016375842803f46a65356586
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2398123474449657425
+    second: Logo
+  - first:
+      213: -6354971915087194697
+    second: StencilPanelBG
+  - first:
+      213: 1883148968867896657
+    second: Done
+  - first:
+      213: -6358939600657027692
+    second: Next
+  - first:
+      213: 2308424125875831988
+    second: Settings
+  - first:
+      213: -4340417192007689434
+    second: StencilCurrentBG
+  - first:
+      213: 5469573933567828597
+    second: StencilCurrent
+  - first:
+      213: 2914178672885314230
+    second: HoldAndReleaseBG
+  - first:
+      213: 4857127293103680440
+    second: SprayCan
+  - first:
+      213: -5063564079908135172
+    second: OK
+  - first:
+      213: 2708467231575449104
+    second: HoldAndRelease
+  - first:
+      213: 3847531180294028314
+    second: Puzzle_UI_Sprites_01_11
+  - first:
+      213: 2570858486684712948
+    second: Puzzle_UI_Sprites_01_12
+  - first:
+      213: -4406222559250278890
+    second: Puzzle_UI_Sprites_01_13
+  - first:
+      213: -7122324867301549548
+    second: Puzzle_UI_Sprites_01_14
+  - first:
+      213: 6912203582148390038
+    second: Puzzle_UI_Sprites_01_15
+  - first:
+      213: 9051742737239590462
+    second: Puzzle_UI_Sprites_01_16
+  - first:
+      213: 6532930829865578050
+    second: Puzzle_UI_Sprites_01_17
+  - first:
+      213: 1672568517840567249
+    second: Puzzle_UI_Sprites_01_18
+  - first:
+      213: -4254385986844990373
+    second: Puzzle_UI_Sprites_01_19
+  - first:
+      213: 4715875963500544450
+    second: Puzzle_UI_Sprites_01_20
+  - first:
+      213: -7893059303131924343
+    second: Puzzle_UI_Sprites_01_21
+  - first:
+      213: -7633053817210101948
+    second: ColorPanelBG
+  - first:
+      213: 2923612673103958117
+    second: GoodJob
+  - first:
+      213: 5838212269259909191
+    second: ColorPanelColor
+  - first:
+      213: -9040508262364309935
+    second: ColorPanelSelectedColor
+  - first:
+      213: 878777441990743753
+    second: Finger
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1631
+        width: 566
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83686c84e9b0473458e908b25c1d887e
+      internalID: -2398123474449657425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StencilPanelBG
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1829
+        width: 1081
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca3173ab2278b4c95c7a4d94f4b308
+      internalID: -6354971915087194697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Done
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1657
+        width: 293
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152fa9685e5a67c4abc0d64152859089
+      internalID: 1883148968867896657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1657
+        width: 293
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba3d6c59026f2f40aa81537e39f880e
+      internalID: -6358939600657027692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1665
+        width: 117
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3cc9e7f24330419671add4e543722
+      internalID: 2308424125875831988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StencilCurrentBG
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1661
+        width: 146
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fb4269bb886dc4a82c49ec88ee0370
+      internalID: -4340417192007689434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StencilCurrent
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1670
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346760039ce8d6142ba8da3238708983
+      internalID: 5469573933567828597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldAndReleaseBG
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1399
+        width: 1078
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a73d90f950e84fb70ce4dcc664df2
+      internalID: 2914178672885314230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SprayCan
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1368
+        width: 151
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74ecbf559878a4a9efc1561b3b3c41
+      internalID: 4857127293103680440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OK
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1376
+        width: 442
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d127a0d40a3894bbbda279bddc1bd2
+      internalID: -5063564079908135172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldAndRelease
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1291
+        width: 407
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b287c4605283e48a0deb0d12886f26
+      internalID: 2708467231575449104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPanelBG
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1040
+        width: 945
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3a3ddcdf120f48a6cf422f4a8b6bd
+      internalID: -7633053817210101948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodJob
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1011
+        width: 738
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff13f21e863b1547ab044ae0cfc3307
+      internalID: 2923612673103958117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPanelColor
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 887
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293b6b1982a638418abb68e1ecedf1b
+      internalID: 5838212269259909191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPanelSelectedColor
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 878
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69341fee7ffcdc458959e43a871597e
+      internalID: -9040508262364309935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finger
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 713
+        width: 131
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2761a0b9013eb40aa56ebf6026e3b8
+      internalID: 878777441990743753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 29f05288bf8e8694d8940b721ff3046b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

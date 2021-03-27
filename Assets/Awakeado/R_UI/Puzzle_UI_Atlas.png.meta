@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 4220cccae08297a49b615008d5bdd202
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6280838417279091769
+    second: OK
+  - first:
+      213: -4368817612261596652
+    second: Settings
+  - first:
+      213: 7186809733348891001
+    second: StageClearedBG
+  - first:
+      213: -2385976066996288355
+    second: Skins
+  - first:
+      213: 4072065977492115073
+    second: Shop
+  - first:
+      213: -2047514898729887230
+    second: Brush
+  - first:
+      213: -6547380220733171633
+    second: Stage_Cleared
+  - first:
+      213: 1907740612443618513
+    second: LevelNumberBG
+  - first:
+      213: -5061410022046128123
+    second: BrushColorBG
+  - first:
+      213: -7953735601517679018
+    second: Puzzle_UI_Atlas_9
+  - first:
+      213: -4591570756632564556
+    second: LevelStage
+  - first:
+      213: -8325444754061436175
+    second: PuzzleandPaintLogo
+  - first:
+      213: -7445863407173364635
+    second: LevelStageBG
+  - first:
+      213: -4991846733192270518
+    second: StencilNumberBgMain
+  - first:
+      213: -5737963166227773139
+    second: StencilNumberSelected
+  - first:
+      213: 3408489116794361171
+    second: NextStage
+  - first:
+      213: -8445513768780987215
+    second: BrushColorsBG
+  - first:
+      213: -7558855220032173495
+    second: SprayCan
+  - first:
+      213: 8017224065258119579
+    second: Puzzle_UI_Atlas_18
+  - first:
+      213: -8809386508912496330
+    second: Puzzle_UI_Atlas_19
+  - first:
+      213: 6386108028629330450
+    second: Puzzle_UI_Atlas_20
+  - first:
+      213: -222886751062095554
+    second: Puzzle_UI_Atlas_21
+  - first:
+      213: 3860804421253901577
+    second: Puzzle_UI_Atlas_22
+  - first:
+      213: 1424761740831392368
+    second: TapToStart
+  - first:
+      213: 6203962478442895334
+    second: Puzzle_UI_Atlas_24
+  - first:
+      213: -7739972530043590234
+    second: Puzzle_UI_Atlas_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OK
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1766
+        width: 373
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938b09eedfd4a034b9d95c072d6d8bc9
+      internalID: -6280838417279091769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1783
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651fb5be2fcb8f343b67479bea2dc35c
+      internalID: -4368817612261596652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageClearedBG
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1603
+        width: 1079
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccba83188b40214782e6ec3ed748aa7
+      internalID: 7186809733348891001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skins
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1470
+        width: 198
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff1aa26de34a6447bdb7c2e342fd2d5
+      internalID: -2385976066996288355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1464
+        width: 198
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3cba9b8d41ce44bb1f988390c34c80
+      internalID: 4072065977492115073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brush
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1461
+        width: 198
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319c3d84928b0ad4d8588e1ece75785a
+      internalID: -2047514898729887230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Cleared
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1323
+        width: 314
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed96f9f503f622c46b481ba31e2150ee
+      internalID: -6547380220733171633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumberBG
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1361
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ce80fde39431f4caee0959b8dcd833
+      internalID: 1907740612443618513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrushColorBG
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1277
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae733be6870a9dd4289b655704470ded
+      internalID: -5061410022046128123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_UI_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1324
+        width: 313
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6266e217dc15b4a91691f41d1633d5
+      internalID: -7953735601517679018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelStage
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1288
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86782404cc343fa45a4691529928fa86
+      internalID: -4591570756632564556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuzzleandPaintLogo
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 974
+        width: 568
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e109cf0c038f949978e2888f2ba436
+      internalID: -8325444754061436175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelStageBG
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1192
+        width: 112
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfc61982747cd14a90cada633576307
+      internalID: -7445863407173364635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StencilNumberBgMain
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1175
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff703fd24bd13b45be1779afee8766c
+      internalID: -4991846733192270518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StencilNumberSelected
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1163
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a73447af03c348927648d68fc163c
+      internalID: -5737963166227773139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextStage
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 950
+        width: 592
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba2249a60b1b744abe4eb0f24dcf27e
+      internalID: 3408489116794361171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrushColorsBG
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 692
+        width: 849
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a6a4d33612ee24c97f98e8cf6b1a30
+      internalID: -8445513768780987215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SprayCan
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 432
+        width: 172
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce64e152c088946bd5b13e45c1a395
+      internalID: -7558855220032173495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_UI_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 510
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9616afbc6f1c634d85ebfe25d207e1b
+      internalID: 8017224065258119579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_UI_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 510
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cba4ded63d9764da2fb81ecf68ecf3
+      internalID: -8809386508912496330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_UI_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 510
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fe66f89c26b754e98220d84cbe5109
+      internalID: 6386108028629330450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_UI_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 510
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9144086cec29d24db0ba08507e06d09
+      internalID: -222886751062095554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_UI_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 510
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b1a1c727f3794ea155ea93b370691
+      internalID: 3860804421253901577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapToStart
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 263
+        width: 432
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcaf767cd4c99b419ceac6a396388a1
+      internalID: 1424761740831392368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_UI_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 279
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5cdec4c706c134db22838dee710885
+      internalID: 6203962478442895334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_UI_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 280
+        width: 192
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad3d2b4e54f08744934c7a065a6f96d
+      internalID: -7739972530043590234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6132c50fd65722245a5b833654f5d846
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
