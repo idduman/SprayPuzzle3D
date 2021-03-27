@@ -13,10 +13,13 @@ public class PuzzleBehaviour : MonoBehaviour
     private LayerMask _pieceMask, _planeMask;
     private Transform _selectedPiece, _movingPiece;
     private Vector3 _hitDiff;
-    private bool _moving;
+    private bool _moving, _finished;
+    private Animator _animator;
 	// Start is called before the first frame update
 	private void Awake()
 	{
+        _animator = GetComponent<Animator>();
+        _animator.enabled = false;
         _completion = new bool[transform.childCount - 1];
     }
 
@@ -49,9 +52,16 @@ public class PuzzleBehaviour : MonoBehaviour
 	// Update is called once per frame
 	void Update()
     {
-        if (_completion.All(x => x))
-            Debug.Log("Completed");
+        if (_finished)
+            return;
 
+        if (_completion.All(x => x))
+        {
+            Debug.Log("Completed");
+            _animator.enabled = true;
+            _animator.SetTrigger("Completed");
+            _finished = true;
+        }
         if (_moving)
         {
             _movingPiece.localPosition = Vector3.Lerp(
