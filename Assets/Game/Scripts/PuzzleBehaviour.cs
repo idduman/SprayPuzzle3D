@@ -1,10 +1,11 @@
-using System.Collections;
+using System;
 using System.Linq;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PuzzleBehaviour : MonoBehaviour
 {
+    public static event Action Pressed;
+
     [SerializeField] private float _snapTreshold = 0.5f;
 
     private bool[] _completion;
@@ -88,6 +89,7 @@ public class PuzzleBehaviour : MonoBehaviour
             _selectedPiece = hit.transform;
             _hitDiff = hit.point - _selectedPiece.position;
             _selectedPiece.position = GetPlanePoint(mousePosition) - _hitDiff;
+            Pressed?.Invoke();
         }
     }
 
